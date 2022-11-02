@@ -4,3 +4,4 @@ var suma=numero1+numero2;
 console.log(suma);
 var resta=numero1-numero2;
 console.log(resta);
+console.log("fin")
