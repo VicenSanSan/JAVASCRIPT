@@ -1,6 +1,9 @@
-console.log("hola");
-console.log(2);
-console.log(2+2);
-console.log ("2+2" +2+2);
-var numero=7;
-console.log("numero es:" + numero);
+var numero=4;
+var texto="7";
+
+
+    console.log(numero + 1);
+    
+    console.log(texto + 1 );
+    var numeroDelTexto=parseInt(texto)
+    console.log(texto + 1 );
