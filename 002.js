@@ -4,4 +4,7 @@ var suma=numero1+numero2;
 console.log(suma);
 var resta=numero1-numero2;
 console.log(resta);
-console.log("fin")
+var producto=numero1*numero2
+console.log(producto)
+var division=numero2/numero1
+console.log(division)
