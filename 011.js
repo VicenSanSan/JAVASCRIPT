@@ -1,4 +1,4 @@
-var nota=9;
+var nota=11;
 
 if(nota>0 && nota <=3){
     console.log("fatal ");
